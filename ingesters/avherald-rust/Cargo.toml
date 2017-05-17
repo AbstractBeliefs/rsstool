@@ -1,0 +1,9 @@
+[package]
+name = "avherald-rust"
+version = "0.1.0"
+authors = ["Gareth Pulham <garethpulham@gmail.com>"]
+
+[dependencies]
+hyper = "0.10.10"
+hyper-native-tls = "0.2.2"
+select = "0.4.0"
